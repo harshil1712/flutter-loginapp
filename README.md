@@ -1,6 +1,8 @@
 # loginapp
 
-A new Flutter project.
+A simple flutter login page, with an image background.
+
+![Screenshot](Screenshot.png)
 
 ## Getting Started
 
